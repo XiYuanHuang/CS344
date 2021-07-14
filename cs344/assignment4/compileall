@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gcc -std=c99 -pthread line_processor.c -o line_processor
+
+
